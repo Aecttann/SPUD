@@ -1,0 +1,72 @@
+body {
+  font: 14px 'Verdana';
+  margin: 0;
+  padding: 0;
+/*	background: url(img1.jpg)no-repeat;*/	
+	/*background-attachment:scroll;*/
+	background-attachment:fixed; 
+	background-size: cover;
+	font-family: Arial;
+	font-size: 5;
+}
+/*
+.vert{
+	transform="rotate(90)";
+	writing-mode: vertical-lr;
+}
+*/
+.myborder{
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-right: 1px solid #000000;
+	
+	  white-space: nowrap;  
+	
+}
+.wrapBorder{
+	border-top: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	border-left: 2px solid #000000;
+	border-right: 2px solid #000000;
+	white-space: nowrap;
+}
+.contStyle1{
+	border-bottom: 2px solid #000000;
+}
+.contStyle2{
+	border-top: 2px solid #000000; 
+	border-bottom: 2px solid #000000; 
+	border-left: 2px solid #000000;
+}
+.contStyle3{
+	border-top: 2px solid #000000; 
+	border-bottom: 2px solid #000000;
+}
+.contStyle4{
+	border-top: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	border-right: 2px solid #000000;
+}
+.contStyle5{
+	border-bottom: 2px solid #000000; 
+	border-left: 1px solid #000000; 
+	border-right: 2px solid #000000;
+}
+.contStyle6{
+	border-top: 2px solid #000000; 
+	border-bottom: 2px solid #000000; 
+	border-left: 2px solid #000000;
+}
+.contStyle7{
+	border-top: 2px solid #000000; 
+	border-bottom: 2px solid #000000;
+	border-left: 2px solid #000000; 
+	border-right: 1px solid #000000;
+}
+.contStyle8{
+	
+}
+.contStyle9{
+	
+}
